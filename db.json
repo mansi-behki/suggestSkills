@@ -1,0 +1,23 @@
+{
+  "Skills": [
+    {
+      "skillId": "urn:li:skill:2792",
+      "skillName": "Computer Engineering"
+    },
+    {
+      "skillId": "urn:li:skill:18942",
+      "skillName": "Software Engineering Practices"
+    },
+    {
+       "skillId": "urn:li:skill:18943",
+      "skillName": "Python"
+    },  
+    {
+       "skillId": "urn:li:skill:18944",
+      "skillName": "c#"
+    },    
+  ],
+  "domain": {
+    "name": "Software engineering"
+  }
+}
