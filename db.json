@@ -1,23 +1,14 @@
 {
-  "Skills": [
-    {
-      "skillId": "urn:li:skill:2792",
-      "skillName": "Computer Engineering"
-    },
-    {
-      "skillId": "urn:li:skill:18942",
-      "skillName": "Software Engineering Practices"
-    },
-    {
-       "skillId": "urn:li:skill:18943",
-      "skillName": "Python"
-    },  
-    {
-       "skillId": "urn:li:skill:18944",
-      "skillName": "c#"
-    },    
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
-  "domain": {
-    "name": "Software engineering"
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
