@@ -1,20 +1,174 @@
 {
-  "Skills": [
+  "page": 1,
+  "limit": 11,
+  "skills": [
     {
-      "skillId": "urn:li:skill:2792",
-      "skillName": "Computer Engineering"
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "1",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "",
+      "translations": {
+        "en_US": {
+          "name": "Mirroring",
+          "description": "Mimics behavior or speech patterns to build rapport and facilitate communication in interpersonal interactions."
+        }
+      }
     },
     {
-      "skillId": "urn:li:skill:18942",
-      "skillName": "Software Engineering Practices"
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "2",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "Kitting",
+          "description": "Process of organizing and preparing items for assembly or shipping, requiring attention to detail and inventory management."
+        }
+      }
     },
     {
-      "skillId": "urn:li:skill:18943",
-      "skillName": "Python"
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "3",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "DSI",
+          "description": "Involves extracting insights from large datasets and applying machine learning algorithms in data science and intelligent systems."
+        }
+      }
     },
     {
-      "skillId": "urn:li:skill:18944",
-      "skillName": "c#"
-    }
-  ]
-}
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "4",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "Physical Verification",
+          "description": "Proficient in using various techniques such as inspections, testing, and measurements to ensure the accuracy and integrity of physical objects or data."
+        }
+      }
+    },
+    {
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "5",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "Laser Scanning",
+          "description": "Proficient in using laser scanning technology to capture and analyze 3D data to support a range of applications, including engineering, architecture, and industrial design."
+        }
+      }
+    },
+    {
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "6",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "OpenCV",
+          "description": "Skilled in using Open Source Computer Vision Library to develop computer vision and machine learning algorithms and applications."
+        }
+      }
+    },
+    {
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "7",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "Automation",
+          "description": "Implements technology to perform tasks independently, enhancing efficiency and productivity across domains."
+        }
+      }
+    },
+    {
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "8",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "Inland Marine",
+          "description": "Provides insurance coverage for movable property and goods in transit, protecting against loss or damage."
+        }
+      }
+    },
+    {
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "9",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00000000-0000-0000-0000-000000000000",
+      "translations": {
+        "en_US": {
+          "name": "Google Earth",
+          "description": "Utilizes satellite imagery and 3D mapping for geographic exploration and spatial analysis."
+        }
+      }
+    },
+    {
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "10",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": 00",
+      "translations": {
+        "en_US": {
+          "name": "Automotive Electronics",
+          "description": "Adept in the diagnosis and repair of automotive electronic systems and components, including sensors, circuits, and control modules."
+        }
+      }
+    },
+    {
+      "domain": "Engineering",
+      "source": "GraphSkills",
+      "skillId": "11",
+      "isSkillRestricted": false,
+      "isGraphSkillMarkedRestrictedByDefault": false,
+      "id": null,
+      "vivaSkills_GUID": "00",
+      "translations": {
+        "en_US": {
+          "name": "Smoke Testing",
+          "description": "Proficient in conducting smoke tests to identify defects, bugs or other issues in software, hardware or other systems."
+        }
+      }
+    },
+  ],
+  "total": 11,
+  "error": null,
+  "diagnosticLog": null
+}	
