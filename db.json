@@ -1,6 +1,4 @@
 {
-  "page": 1,
-  "limit": 11,
   "skills": [
     {
       "vivaSkills_GUID": "",
@@ -48,7 +46,4 @@
       }
     }
   ],
-  "total": 11,
-  "error": null,
-  "diagnosticLog": null
 }	
