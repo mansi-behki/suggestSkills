@@ -4,12 +4,6 @@
   "skills": [
     {
       "domain": "Engineering",
-      "source": "GraphSkills",
-      "skillId": "1",
-      "isSkillRestricted": false,
-      "isGraphSkillMarkedRestrictedByDefault": false,
-      "id": null,
-      "vivaSkills_GUID": "",
       "translations": {
         "en_US": {
           "name": "Mirroring",
@@ -19,12 +13,6 @@
     },
     {
       "domain": "Engineering",
-      "source": "GraphSkills",
-      "skillId": "2",
-      "isSkillRestricted": false,
-      "isGraphSkillMarkedRestrictedByDefault": false,
-      "id": null,
-      "vivaSkills_GUID": "00",
       "translations": {
         "en_US": {
           "name": "Kitting",
@@ -34,12 +22,6 @@
     },
     {
       "domain": "Engineering",
-      "source": "GraphSkills",
-      "skillId": "3",
-      "isSkillRestricted": false,
-      "isGraphSkillMarkedRestrictedByDefault": false,
-      "id": null,
-      "vivaSkills_GUID": "00",
       "translations": {
         "en_US": {
           "name": "DSI",
@@ -49,12 +31,6 @@
     },
     {
       "domain": "Engineering",
-      "source": "GraphSkills",
-      "skillId": "4",
-      "isSkillRestricted": false,
-      "isGraphSkillMarkedRestrictedByDefault": false,
-      "id": null,
-      "vivaSkills_GUID": "00",
       "translations": {
         "en_US": {
           "name": "Physical Verification",
@@ -64,12 +40,6 @@
     },
     {
       "domain": "Engineering",
-      "source": "GraphSkills",
-      "skillId": "5",
-      "isSkillRestricted": false,
-      "isGraphSkillMarkedRestrictedByDefault": false,
-      "id": null,
-      "vivaSkills_GUID": "00",
       "translations": {
         "en_US": {
           "name": "Laser Scanning",
