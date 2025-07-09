@@ -1,49 +1,49 @@
 {
-  "skills": [
-    {
-      "vivaSkills_GUID": "",
-      "translations": {
-        "en_US": {
-          "name": "Mirroring",
-          "description": "Mimics behavior or speech patterns to build rapport and facilitate communication in interpersonal interactions."
+    "skills": [
+        {
+            "vivaSkills_GUID": "",
+            "translations": {
+                "en_US": {
+                    "name": "Mirroring",
+                    "description": "Mimics behavior or speech patterns to build rapport and facilitate communication in interpersonal interactions."
+                }
+            }
+        },
+        {
+            "vivaSkills_GUID": "00",
+            "translations": {
+                "en_US": {
+                    "name": "Kitting",
+                    "description": "Process of organizing and preparing items for assembly or shipping, requiring attention to detail and inventory management."
+                }
+            }
+        },
+        {
+            "vivaSkills_GUID": "00",
+            "translations": {
+                "en_US": {
+                    "name": "DSI",
+                    "description": "Involves extracting insights from large datasets and applying machine learning algorithms in data science and intelligent systems."
+                }
+            }
+        },
+        {
+            "vivaSkills_GUID": "00",
+            "translations": {
+                "en_US": {
+                    "name": "Physical Verification",
+                    "description": "Proficient in using various techniques such as inspections, testing, and measurements to ensure the accuracy and integrity of physical objects or data."
+                }
+            }
+        },
+        {
+            "vivaSkills_GUID": "00",
+            "translations": {
+                "en_US": {
+                    "name": "Laser Scanning",
+                    "description": "Proficient in using laser scanning technology to capture and analyze 3D data to support a range of applications, including engineering, architecture, and industrial design."
+                }
+            }
         }
-      }
-    },
-    {
-      "vivaSkills_GUID": "00",
-      "translations": {
-        "en_US": {
-          "name": "Kitting",
-          "description": "Process of organizing and preparing items for assembly or shipping, requiring attention to detail and inventory management."
-        }
-      }
-    },
-    {
-      "vivaSkills_GUID": "00",
-      "translations": {
-        "en_US": {
-          "name": "DSI",
-          "description": "Involves extracting insights from large datasets and applying machine learning algorithms in data science and intelligent systems."
-        }
-      }
-    },
-    {
-      "vivaSkills_GUID": "00",
-      "translations": {
-        "en_US": {
-          "name": "Physical Verification",
-          "description": "Proficient in using various techniques such as inspections, testing, and measurements to ensure the accuracy and integrity of physical objects or data."
-        }
-      }
-    },
-    {
-      "vivaSkills_GUID": "00",
-      "translations": {
-        "en_US": {
-          "name": "Laser Scanning",
-          "description": "Proficient in using laser scanning technology to capture and analyze 3D data to support a range of applications, including engineering, architecture, and industrial design."
-        }
-      }
-    }
-  ],
-}	
+    ]
+}
